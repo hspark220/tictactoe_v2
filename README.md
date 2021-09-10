@@ -1,6 +1,6 @@
 # tictactoe_v2
 
-this is the second version of the tictactoe game that i created. the difference from this project from the older version i made will be that this version will have a more user-friendly UI.
+this is the second version of the tictactoe game that i created. the difference from this project from the older version i made will be that this version will be better organized and potentially have some sort of UI other than terminal...
 
 ## technologies
 
